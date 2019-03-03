@@ -1,0 +1,3 @@
+Nice form! You could improve by straightening out your throwing arm.
+Your right elbow angle: 133 degrees 
+Expected angle: 144 degrees

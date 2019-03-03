@@ -1,0 +1,3 @@
+Nice form! You could improve by bending your left leg more during the throw. 
+Your left leg angle: 152 degrees 
+Expected angle: 149 degrees

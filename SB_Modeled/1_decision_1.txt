@@ -1,0 +1,3 @@
+Nice form! You could improve by holding the ball away from your chest.
+Your left elbow angle: 40 degrees 
+Expected angle: 54 degrees

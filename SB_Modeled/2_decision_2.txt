@@ -1,0 +1,3 @@
+Nice form! You could improve by leaning forward and bending your front leg more. 
+Your left leg angle: 157 degrees 
+Expected angle: 141 degrees
